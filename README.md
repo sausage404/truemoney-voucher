@@ -1,7 +1,7 @@
 # truemoney-voucher
 
 [![npm version](https://img.shields.io/npm/v/truemoney-voucher.svg)](https://www.npmjs.com/package/truemoney-voucher)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![License: MIT](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
 A TypeScript package for redeeming TrueMoney vouchers (อั่งเปาทรูมันนี่) through the official TrueMoney API.
 

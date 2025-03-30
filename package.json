@@ -1,9 +1,11 @@
 {
   "name": "truemoney-voucher",
+  "description": "A TypeScript package for redeeming TrueMoney vouchers through the official TrueMoney API.",
   "type": "commonjs",
-  "version": "0.0.1",
-  "main": "dist/index.js",
+  "version": "0.0.3",
+  "main": "dist/bundle.js",
   "types": "types/index.d.ts",
+  "author": "sausage404",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
